@@ -13,3 +13,7 @@ print(type(name))
 #keyword ?
 #keywords are the reserved words in python and they can't be used as a variable name
 #keywords are blue in color for pycharm
+#python love snakecase
+variable_name = "kamal"
+#what is snake case
+#space is removed and we use _ instead of space
