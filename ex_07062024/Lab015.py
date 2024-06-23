@@ -5,3 +5,4 @@
 user_input = input("Enter your name:")
 print("your name is", user_input)
 print(type(user_input))
+#input is the function here to call the values

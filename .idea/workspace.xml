@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90ed419-e3cc-48aa-93c9-1ee64abc363b" name="Changes" comment="Commit2">
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e90ed419-e3cc-48aa-93c9-1ee64abc363b" name="Changes" comment="Commit till lab 13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_07062024/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_07062024/Lab015.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +28,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2hxT13gEDxRAyefQqNLHIjkFyHW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,17 +39,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "one"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.py4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;one&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -100,13 +108,56 @@
       <option name="project" value="LOCAL" />
       <updated>1718535333306</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit till lab 4">
+      <option name="closed" value="true" />
+      <created>1718535717583</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718535717583</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit till lab 4">
+      <option name="closed" value="true" />
+      <created>1718535985865</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718535985865</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit till lab 10">
+      <option name="closed" value="true" />
+      <created>1718536920647</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718536920647</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit till lab 13">
+      <option name="closed" value="true" />
+      <created>1718537862664</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718537862664</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit till lab 13">
+      <option name="closed" value="true" />
+      <created>1718538623118</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718538623118</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit1" />
     <MESSAGE value="Commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit2" />
+    <MESSAGE value="Commit till lab 4" />
+    <MESSAGE value="Commit till lab 10" />
+    <MESSAGE value="Commit till lab 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit till lab 13" />
   </component>
 </project>
