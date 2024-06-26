@@ -12,7 +12,8 @@ print(type(val))
 #val = val+1 #No operations are allowed with None
 
 #initially if we don;t know about the value of a variable then we can assign it None. It is a built-in constant in Python. You can use it to assign null values to variables or to check if a variable has a value or not. For example:
-name = None
+name = "" #Empty string, some memory is allocated to it
+name = None #No memory is allocated to it
 print(name)
 name = "Sachin"
 print(name)

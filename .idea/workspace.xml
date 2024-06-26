@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e90ed419-e3cc-48aa-93c9-1ee64abc363b" name="Changes" comment="Commit till lab 13">
-      <change afterPath="$PROJECT_DIR$/ex_07062024/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07062024/Lab022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07062024/Lab023.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_07062024/Lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_07062024/Lab020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_07062024/Lab022.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_07062024/Lab022.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +63,8 @@
     "Python.Lab019.executor": "Run",
     "Python.Lab020.executor": "Run",
     "Python.Lab021.executor": "Run",
+    "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "one"
   }
@@ -209,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719404535920</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commit till lab 13">
+      <option name="closed" value="true" />
+      <created>1719406237998</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719406237998</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
