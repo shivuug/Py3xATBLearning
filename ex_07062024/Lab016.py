@@ -12,6 +12,11 @@ num4 = int(input("Enter the second number:")) #Type casting to integer
 result1 = num3+num4
 print(result1)
 
+#We can also use it in this way
+num5 = input("Enter the first number:") #because input function reads string from a function
+num6 = input("Enter the second number:")
+result4 = int(num5)+int(num6) #Type casting to integer
+print(result4)
 #For example
 name1 = input("Enter the first name:")
 name2 = input("Enter the second name:")
